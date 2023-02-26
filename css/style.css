@@ -109,8 +109,9 @@ p {
  }
 
 .intro__subtitle {
-    margin-top: 230px;
+    margin-top: 130px;
     margin-bottom: 30px;
+    font-weight: 300;
     font-family: 'Kaushan Script';
     font-size: 72px;
 }
